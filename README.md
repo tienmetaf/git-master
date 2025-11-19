@@ -1,3 +1,3 @@
 # INIT
 
-# A B C D E
+# A B C D E F G
